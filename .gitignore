@@ -1,0 +1,9 @@
+# Github and IDE related
+.git
+.idea
+
+# Debugging (Jupyter notebook)
+.ipynb_checkpoints
+image.jpg
+imageCopy.jpg
+Untitled.ipynb
